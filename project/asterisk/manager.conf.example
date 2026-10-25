@@ -1,0 +1,13 @@
+; Asterisk Manager Interface, used by the userside backend dialer to place calls.
+; userside\backend\scripts\link_asterisk.ps1 writes the real manager.conf with a random secret.
+[general]
+enabled = yes
+port = 5038
+bindaddr = 127.0.0.1
+
+[voicellm]
+secret = CHANGE_ME
+deny = 0.0.0.0/0.0.0.0
+permit = 127.0.0.1/255.255.255.255
+read = call
+write = originate

@@ -1,0 +1,21 @@
+# big downloads (project/scripts/download_assets.ps1 fetches them)
+/tools/
+/models/
+/downloads/
+/wsl/
+/logs/
+/tmp/
+
+# Python / Node
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+node_modules/
+dist/
+
+# secrets and local data
+userside/backend/.env
+userside/backend/data/
+project/asterisk/manager.conf
+*.wav

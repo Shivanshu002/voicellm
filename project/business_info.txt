@@ -1,0 +1,8 @@
+(EXAMPLE - replace with your real business details. The agent answers only from this.)
+Business: Example Electronics, a mobile and accessories store.
+Hours: Monday to Saturday 10 AM to 8 PM, Sunday 11 AM to 5 PM.
+Address: Shop 12, Main Market.
+Payment: cash, UPI, debit and credit cards.
+Returns: within 7 days with the bill and original box. No returns without a bill.
+Warranty: phones have 1 year manufacturer warranty; service center is next to the store.
+Delivery: free home delivery within 5 km for orders above 999 rupees.

@@ -1,0 +1,6 @@
+# LF everywhere: the .sh scripts and Asterisk configs run inside WSL/Linux,
+# where CRLF line endings break them.
+* text=auto eol=lf
+*.ps1 text eol=crlf
+*.png binary
+*.ico binary
