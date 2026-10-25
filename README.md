@@ -89,6 +89,10 @@ cd userside\backend; .venv\Scripts\python.exe -m pytest -q
 cd userside\frontend; npm run build
 ```
 
+## License
+
+[MIT](LICENSE) — free to use, modify and sell; keep the copyright notice.
+
 ## Responsible use
 
 Automated calling is regulated. Call only people who agreed to hear from you,
